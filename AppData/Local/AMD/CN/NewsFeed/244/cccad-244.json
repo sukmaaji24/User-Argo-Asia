@@ -1,0 +1,179 @@
+[
+  {
+    "id": "T2Tank",
+    "title": "Tank Commanders: New World of Tanks Judgement Day Giveaway is now available!",
+    "lnk": "https://newqa.phoenixfms.ca/worldoftanks",
+    "tag": "desktop;radeon;notebook;child",
+    "expires": "12/8/2099 23:59",
+    "background_img": "https://download.amd.com/cccads/images/t2_background.png",
+    "logo_img": "https://download.amd.com/cccads/images/43aspect.png",
+    "TAG-PARTNER": "Wargaming",
+    "LIVEDATE":"1/16/2023 0:00"
+  },
+  {
+    "id": "Calisto",
+    "title": "Explore the depths of fear.",
+    "lnk": "https://callisto.sds.com/en-us/",
+    "tag": "desktop;radeon;notebook",
+    "expires": "12/8/2099 23:59",
+    "background_img": "https://download.amd.com/cccads/images/calisto_background.png",
+    "logo_img": "https://download.amd.com/cccads/images/43aspect.png",
+    "TAG-PARTNER": "striking",
+    "LIVEDATE": "1/16/2023 0:00"
+  },
+  {
+    "id": "AmbientNoise",
+    "title": "Click here to learn how to reduce ambient noise in a few easy steps.",
+    "lnk": "http://www.amd.com/noisesuppression",
+    "tag": "desktop;radeon;notebook",
+    "expires": "12/8/2099 23:59",
+    "background_img": "https://download.amd.com/cccads/images/AMD_noise_suppressor_banner_bg.png",
+    "logo_img": "https://download.amd.com/cccads/images/AMD_noise_suppressor_lockup.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "11/24/2021 0:00"
+  },
+  {
+    "id": "Privacy",
+    "title": "Keep prying eyes away from your screen and your information safer.",
+    "lnk": "https://community.amd.com/t5/gaming/introducing-amd-privacy-view/ba-p/525529",
+    "tag": "desktop;radeon;notebook",
+    "expires": "12/8/2099 23:59",
+    "background_img": "https://download.amd.com/cccads/images/privacy-bg.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/privacy-logo.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "11/24/2021 0:00"
+  },
+  {
+    "id": "King",
+    "title": "Introducing the Dependable AMD Radeon PRO W6400 GPU. Learn More",
+    "lnk": "https://www.amd.com/en/products/professional-graphics/amd-radeon-pro-w6400",
+    "tag": "workstation;child",
+    "expires": "12/8/2099 23:59",
+    "background_img": "https://download.amd.com/cccads/images/AMD-king-6400-software-banner.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/43aspect.png",
+    "TAG-PARTNER": "AMD",
+    "LIVEDATE": "1/31/2022 0:00"
+  },
+  {
+    "id": "Skyscraper",
+    "title": "Learn More About the Latest Professional Graphics Range",
+    "lnk": "https://www.amd.com/en/graphics/workstations",
+    "tag": "workstation;child",
+    "expires": "12/8/2099 23:59",
+    "background_img": "https://download.amd.com/cccads/images/AMD-6000-family-software-banner.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/43aspect.png",
+    "TAG-PARTNER": "AMD",
+    "LIVEDATE": "1/31/2022 0:00"
+  },
+  {
+    "id": "Chipback",
+    "title": "Learn More About the Latest AMD RDNA 2 Graphics Architecture",
+    "lnk": "https://www.amd.com/system/files/documents/rdna2-explained-radeon-pro-W6000.pdf",
+    "tag": "workstation;child",
+    "expires": "12/8/2099 23:59",
+    "background_img": "https://download.amd.com/cccads/images/AMD-RDNA-software-banner.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/43aspect.png",
+    "TAG-PARTNER": "AMD",
+    "LIVEDATE": "1/31/2022 0:00"
+  },
+  {
+    "id": "RemoteWS",
+    "title": "Be Productive Anywhere. Learn More",
+    "lnk": "https://www.amd.com/en/technologies/remote-workstation",
+    "tag": "workstation;child",
+    "expires": "12/8/2099 23:59",
+    "background_img": "https://download.amd.com/cccads/images/RemoteWorkstation-BannerSize.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/43aspect.png",
+    "TAG-PARTNER": "AMD",
+    "LIVEDATE": "1/31/2022 0:00"
+  },
+  {
+    "id": "Viewport",
+    "title": "View Your Designs In Higher Resolution. Learn More",
+    "lnk": "https://www.amd.com/en/technologies/radeon-pro-software-image-quality",
+    "tag": "workstation;child",
+    "expires": "12/8/2099 23:59",
+    "background_img": "https://download.amd.com/cccads/images/ViewportImageBoost-BannerSize.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/43aspect.png",
+    "TAG-PARTNER": "AMD",
+    "LIVEDATE": "1/31/2022 0:00"
+  },
+  {
+    "id": "boost",
+    "title": "How to enable Boost",
+    "lnk": "https://www.youtube.com/watch?v=va_CRJ67rcU",
+    "tag": "rsx_howto",
+    "expires": "12/30/2025 23:59",
+    "background_img": "http://i3.ytimg.com/vi/va_CRJ67rcU/maxresdefault.jpg",
+    "LIVEDATE": "12/2/2019 08:00"
+  },
+  {
+    "id": "antilag",
+    "title": "How to enable Anti Lag",
+    "lnk": "https://www.youtube.com/watch?v=udlDUnY7a5I",
+    "tag": "rsx_howto",
+    "expires": "12/30/2025 23:59",
+    "background_img": "http://i3.ytimg.com/vi/udlDUnY7a5I/maxresdefault.jpg",
+    "LIVEDATE": "12/2/2019 08:00"
+  },
+  {
+    "id": "browser",
+    "title": "Browse the Web in Game with Radeon Software",
+    "lnk": "https://www.youtube.com/watch?v=6gHYMangQB4",
+    "tag": "rsx_howto",
+    "expires": "12/30/2025 23:59",
+    "background_img": "http://i3.ytimg.com/vi/6gHYMangQB4/maxresdefault.jpg",
+    "LIVEDATE": "12/2/2019 08:00"
+  },
+  {
+    "id": "streaming",
+    "title": "Stream Your Wins to Social Media with Radeon Software",
+    "lnk": "https://www.youtube.com/watch?v=8eFd-LhkSNg",
+    "tag": "rsx_howto",
+    "expires": "12/30/2025 23:59",
+    "background_img": "http://i3.ytimg.com/vi/8eFd-LhkSNg/maxresdefault.jpg",
+    "LIVEDATE": "12/2/2019 08:00"
+  },
+  {
+    "id": "amdlink",
+    "title": "Play Games Anywhere with AMD Link",
+    "lnk": "https://www.youtube.com/watch?v=yRoy4i5MfTk",
+    "tag": "rsx_howto",
+    "expires": "12/30/2025 23:59",
+    "background_img": "http://i3.ytimg.com/vi/yRoy4i5MfTk/maxresdefault.jpg",
+    "LIVEDATE": "12/2/2019 08:00"
+  },
+  {
+    "id": "feedback",
+    "title": "Your feedback is important to us",
+    "lnk": "https://www.amdsurveys.com/se/5A1E27D26C60C805/lang/en-US/43b10085-cb7c-44ac-ac70-0dbcccf150ff_326939553",
+    "tag": "notebook;desktop;child",
+    "expires": "12/30/2025 09:00",
+    "background_img": "",
+    "logo_img": "",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "02/10/2021 09:00"
+  },
+  {
+    "id": "linklearnmore",
+    "title": "Control your gaming PC from your phone, TV or another PC. Learn how. ",
+    "lnk": "https://www.amd.com/en/technologies/software-amdlink",
+    "tag": "notebook;desktop;radeon;child",
+    "expires": "09/30/2026 23:59",
+    "background_img": "https://download.amd.com/cccads/images/amd-link_bg.png",
+    "logo_img": "https://download.amd.com/cccads/images/43aspect.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "07/13/2020 09:00"
+  },
+  {
+    "id": "Ryzen7000",
+    "title": "Learn More",
+    "lnk": "https://www.amd.com/en/ryzen",
+    "tag": "notebook;desktop;radeon;child",
+    "expires": "09/30/2026 23:59",
+    "background_img": "https://download.amd.com/cccads/images/Ryzen7000_BG_SoftwareBanners.jpg",
+    "logo_img": "https://download.amd.com/cccads/images/Ryzen7000_Logo_SoftwareBanners.png",
+    "TAG-PARTNER": "amd",
+    "LIVEDATE": "07/13/2020 09:00"
+  }
+]
